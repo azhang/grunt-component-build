@@ -31,7 +31,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "component-builder": "0.11.x",
+    "component-builder": "0.12.x",
     "async": "~0.2.10",
     "mkdirp": "~0.3.5",
     "handlebars": "*"
